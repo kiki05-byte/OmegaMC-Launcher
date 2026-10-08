@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "OmegaClient Launcher - v1.0.0"
+title = "OmegaClient Launcher - v1.0.1"
 
 [ejs.landing]
 mediaGitHubURL = "https://www.omegamc.it"

@@ -1,5 +1,5 @@
 appId: 'omegamc-launcher'
-productName: 'OmegaMC-Launcher'
+productName: 'OmegaMC Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2026 OmegaMC Studios'
